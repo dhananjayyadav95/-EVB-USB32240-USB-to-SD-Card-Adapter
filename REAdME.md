@@ -48,7 +48,7 @@ The board is designed to be manufactured using standard PCB fabrication processe
 
 ## License
 
-This hardware design is released under [Choose an open source hardware license]
+This hardware design is released under MIT License
 
 ## Contributing
 
@@ -57,9 +57,6 @@ Contributions to improve the design are welcome. Please feel free to:
 - Propose design improvements
 - Create pull requests
 
-## Author
-
-[Your Name/Organization]
 
 ## Acknowledgments
 
